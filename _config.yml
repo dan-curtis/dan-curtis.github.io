@@ -29,7 +29,8 @@ url: "https://dan-curtis.github.io/" # the base hostname & protocol for your sit
 github_username:  dan-curtis
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme.
+# theme: minima
 plugins:
   - jekyll-feed
 
