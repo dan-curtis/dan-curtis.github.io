@@ -28,6 +28,20 @@ url: "https://dan-curtis.github.io/" # the base hostname & protocol for your sit
 # twitter_username: jekyllrb
 github_username:  dan-curtis
 
+# Fields that minima uses but are not defaulted
+# author is default for posts, atom feed and footer
+author: Dan Curtis
+linkedin_username: dgcurtis4
+
+# New fields not defaulted by jekyll-new with the minima theme
+# Add a copyright, sumbol and year added automatically
+# copyright: Company Name Inc.
+copyright: Company Name ltd
+# title-logo is a new field that when populated displays a logo
+# ideally the image should be 50px high and take up minimal horizontal space
+# title-logo: /images/my-logo.png (jpeg etc)
+title-logo: /images/title-logo.png
+
 # Build settings
 # Removed minima theme as it is now a regular theme.
 # theme: minima
