@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is Dan and I'm a UK-based Data Scientist with a background in maths.  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My aim for this blog is to have a place to write about things that I am passionate about, that may not be directly related to my work. The Maths blog will likely focus heavily on Graph Theory, my subject of choice. The Code blog is intended to have tips and tricks that I find useful, with a probable focus on Python.  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+This site is hosted using [Github Pages](https://pages.github.com/){:target="_blank"}, [Jekyll](https://github.com/jekyll){:target="_blank"}, and a customised [Minima](https://github.com/jekyll/minima){:target="_blank"} theme. Hopefully when it is a bit more established I will write some instructional posts on how I did it.  
