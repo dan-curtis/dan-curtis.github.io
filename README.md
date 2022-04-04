@@ -1,1 +1,1 @@
-This is the repo for my blog
+This is the repository for my personal blog
