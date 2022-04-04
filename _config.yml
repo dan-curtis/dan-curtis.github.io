@@ -21,7 +21,7 @@
 title: Dan Curtis
 email: dgcurtis4@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog site! A place for me to play around with maths, coding and data topics that interest me, amongst other things.
+  Welcome to my blog! A place for me to play around with maths, coding and data topics that interest me, amongst other things.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dan-curtis.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb

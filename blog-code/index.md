@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home-code
-title: Code Blog
+header-label: Code
+title: Posts about Code
 category: Code
 ---
