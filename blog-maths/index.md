@@ -7,3 +7,6 @@ header-label: Maths
 title: Posts about Maths
 category: Maths
 ---
+
+Testing whether this [link]({{ site.baseurl }}{% link pages/so-what-is-graph-theory.md %}) works
+
