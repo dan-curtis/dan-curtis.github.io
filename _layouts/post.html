@@ -23,5 +23,15 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 
+  <!-- utterances implementation, TODO: put variables into config -->
+  <script src="https://utteranc.es/client.js"
+        repo="dan-curtis/dan-curtis.github.io"
+        issue-term="pathname"
+        label="comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+  </script>
+
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
