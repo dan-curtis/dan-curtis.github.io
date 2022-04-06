@@ -36,24 +36,7 @@ header_pages:
   - blog-maths/index.md
   - blog-code/index.md
   - pages/about.md
-# below sets utterances comments to True by default
-# set comments: false on individual posts to override
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: true
-# repository for utterances to find the issues
-repository: dan-curtis/dan-curtis.github.io
-# utterances widget
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light" # "github-dark"
-    issue_term: "pathname"
-    label: "comment" # Optional - must be existing label.
+
 
 # New fields not defaulted by jekyll-new with the minima theme
 # Add a copyright, sumbol and year added automatically
